@@ -2,7 +2,7 @@
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="croixan.plugin.networkoperator"
         version="1.0.0">
-    <name>PluginNetworkOperator</name>
+    <name>entelpayencriptar</name>
     <description>cordova plugin get carrier network operator</description>
     <license>Apache 2.0</license>
     <keywords>cordova,carrier,mcc,mnc,telephonymanager</keywords>
@@ -21,8 +21,8 @@
             <feature name="EntelPay">
                 <param name="android-package" value="plugins.EntelPay" />
             </feature>
-            <preference name="android-minSdkVersion" value="14" />
-            <preference name="android-targetSdkVersion" value="18" />
+            <preference name="android-minSdkVersion" value="23" />
+            <preference name="android-targetSdkVersion" value="29" />
         </config-file>
 
          <source-file src="src/android/plugins/EntelPay.java" target-dir="src/plugins/" />
