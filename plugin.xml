@@ -2,7 +2,7 @@
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="croixan.plugin.networkoperator"
         version="1.0.0">
-    <name>entelpayencriptar</name>
+    <name>PluginNetworkOperator</name>
     <description>cordova plugin get carrier network operator</description>
     <license>Apache 2.0</license>
     <keywords>cordova,carrier,mcc,mnc,telephonymanager</keywords>
