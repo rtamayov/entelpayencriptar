@@ -1,6 +1,6 @@
 {
   "name": "croixan.plugin.networkoperator",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "An Android Cordova plugin that allows users to display simple Toast messages at the bottom of the screen.",
   "cordova": {
     "id": "croixan.plugin.networkoperator",
